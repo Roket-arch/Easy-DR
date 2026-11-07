@@ -1,0 +1,6 @@
+psutil>=5.9
+watchdog>=4.0
+yara-python>=4.5
+pystray>=0.19
+Pillow>=10.0
+customtkinter>=5.2
